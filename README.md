@@ -1,8 +1,8 @@
 # Visualisation de Statistiques & Formes Géométriques
 
 ## 1. Présentation du projet
-> **Contexte :** Projet réalisé dans le cadre du cours d'**Génie Logiciel** enseigné par **Jean-Marc Jézéquel**, en **L2 ISTN** à l'**ISTIC - Université de Rennes**.
-> **Note :** L'utilisation d'IA générative était autorisée et encouragée pour ce projet.
+> **Contexte :** Projet réalisé dans le cadre du cours d'**Génie Logiciel** enseigné par **Jean-Marc Jézéquel**, en **L2 ISTN** à l'**ISTIC - Université de Rennes**.  
+> **Note :** L'utilisation d'IA générative était autorisée et encouragée pour ce projet.  
 > **Équipe (Groupe J2-G5) :** Alexis TANGUY-NOBILET (Scrum Master), Toni TREBEL (Responsable communication), Maël VIEY, Nolan LE MAGUER, Nicolas MERRER, Léo RENAULT, Mamadou SALL YERO, Henry SOUL.
 
 Ce projet implémente une application complète de **visualisation de données** (DataViz) en Java.

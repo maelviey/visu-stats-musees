@@ -1,0 +1,6 @@
+bin/
+lib/
+.vscode/
+.metals/
+.scala-build/
+src/pageTest.html

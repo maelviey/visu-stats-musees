@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.univrennes.istic.l2gen.geometrie.SecteurTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 s -- in fr.univrennes.istic.l2gen.geometrie.SecteurTest
